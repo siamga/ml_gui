@@ -78,7 +78,7 @@
      <string>Target Set</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="Browse">
     <property name="geometry">
      <rect>
       <x>190</x>
@@ -104,7 +104,7 @@
      <string>Scale Values</string>
     </property>
    </widget>
-   <widget class="QListWidget" name="listWidget">
+   <widget class="QListWidget" name="column_list">
     <property name="geometry">
      <rect>
       <x>20</x>
@@ -124,7 +124,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QLabel" name="label_30">
+   <widget class="QLabel" name="label_3">
     <property name="geometry">
      <rect>
       <x>490</x>
